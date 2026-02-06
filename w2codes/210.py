@@ -1,0 +1,5 @@
+n = int(input())
+array = list(map(int, input().split()))
+array.sort()
+array.reverse()
+print(*array)
