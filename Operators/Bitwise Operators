@@ -1,0 +1,8 @@
+ex1
+print(6 & 3)
+
+ex2
+print(6 | 3)
+
+ex3
+print(6 ^ 3)
